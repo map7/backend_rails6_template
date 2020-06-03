@@ -56,3 +56,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'rack-cors'                 # Allow Angular to talk to rails
 gem 'devise'                    # Authentication 
+gem 'devise_token_auth'         # Token based authentication for mobile apps
