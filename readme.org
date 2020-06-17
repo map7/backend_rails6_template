@@ -1,0 +1,25 @@
+* Rails 6 API + Web backend with devise
+
+This is a Rails 6 project which has been configured as an API for use with nativescript mobile apps and still talks to standard Rails views. It uses the devise and devise_token_auth to authenticate users into the system.
+
+** Dependencies
+
+| ruby       | 2.6.1 |
+| PostgreSQL | 9+    |
+
+** Using the templates
+   :PROPERTIES:
+   :CREATED:  [2020-06-18 Thu 09:41]
+   :END:
+
+1. Clone this repository
+2. Copy it to a new name
+3. Setup
+   : rake db:create
+   : rake db:migrate
+   : rake db:seed
+4. Start server
+   : rails s
+5. Test that you can login
+6. Setup the 'frontend_nativescript_template'
+
