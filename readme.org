@@ -4,8 +4,8 @@ This is a Rails 6 project which has been configured as an API for use with nativ
 
 ** Dependencies
 
-| ruby       | 2.6.1 |
-| PostgreSQL | 9+    |
+| ruby       | 2.6.6 |
+| PostgreSQL |    9+ |
 
 ** Using the templates
    :PROPERTIES:
